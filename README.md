@@ -59,4 +59,42 @@ Location: Chattogram, Bangladesh
 <div style="text-align: center;">
 <img width="521" alt="welcome screen" src="images/The Stellar Story Unfolds-1.png">
 </div>
+
+
 ---
+
+## Role of AI in the Development of Cosmic Guardians
+
+While the core project and gameplay were fully developed by our team, we leveraged AI tools strategically during the design and ideation process to enhance creativity, efficiency, and scientific accuracy:
+
+- Concept Development:
+AI helped generate storylines, mission ideas, character backstories, and dual-perspective gameplay concepts. This allowed us to explore a wide range of engaging educational scenarios, ensuring each mission conveyed both scientific accuracy and emotional impact.
+
+- Game Mechanics & Educational Design:
+AI-assisted brainstorming helped us design mini-games, forecasting challenges, and interactive puzzles that reflect real-world space weather effects, making the educational content age-appropriate and fun.
+
+- Content Creation & Clarity:
+AI tools were used to draft in-game prompts, instructional texts, and narrative explanations, which we then refined manually. This ensured that the content was clear, concise, and scientifically sound, without compromising our original vision.
+
+- Data Visualization Planning:
+AI helped us conceptualize how NASA and NOAA datasets could be represented in the game, including charts, meters, and visual alerts, guiding us toward an intuitive and interactive design.
+---
+
+## Data Sources
+
+- [NASA Solar Dynamics Observatory (SDO)](https://sdo.gsfc.nasa.gov/)  
+- [Advanced Composition Explorer (ACE)](https://science.nasa.gov/mission/ace/)  
+- [Solar and Heliospheric Observatory (SOHO)](https://soho.nascom.nasa.gov/)
+
+---
+
+## Closing Vision
+
+**Cosmic Guardians: Tales from the Sun** blends storytelling, science, and gameplay to make space weather accessible, fun, and educational. Players experience both the human and cosmic perspectives, learning that space weather is a natural phenomenon that connects everyone on Earth under the same cosmic sky.
+
+---
+
+
+<p align="center">
+  <em>"Together, we protect Earth under the same cosmic sky"</em>
+</p>
