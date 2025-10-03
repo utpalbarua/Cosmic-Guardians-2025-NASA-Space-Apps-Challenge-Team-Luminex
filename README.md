@@ -20,7 +20,7 @@ Team Name: [Team Luminex](https://www.spaceappschallenge.org/2025/find-a-team/ec
 Challenge: [Stellar Stories: Space Weather Through the Eyes of Earthlings](https://www.spaceappschallenge.org/2025/challenges/stellar-stories-space-weather-through-the-eyes-of-earthlings/)<br>
 Location: Chattogram, Bangladesh
 
-* [Project Presentation](https://youtu.be/FEjPrRmvWz8)
+* [Project Presentation](https://www.youtube.com/watch?v=kymX1gaL_QY)
 * [Project Wireframes](https://www.figma.com/design/wYGGDgDaMd8o4hLxLTIGdR/Untitled?node-id=0-1&t=Y5cbjqtVQzYwcUsw-1)
 ---
 
