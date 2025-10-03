@@ -49,7 +49,7 @@ Location: Chattogram, Bangladesh
 </div>
 
 ### Mission Test: Cosmic Weather Simulation
-*Players must decide the best immediate action during a solar storm affecting Earth's power grid. The game provides hints about solar storm impacts on Earth's magnetic field and infrastructure, encouraging critical thinking and decision-making.*
+*Players must decide the best immediate action during an incidence. The game provides hints about the corresponding test and infrastructure, encouraging critical thinking and decision-making.*
 <div style="text-align: center;">
 <img width="521" alt="welcome screen" src="images/Mission-1.png">
 </div>
