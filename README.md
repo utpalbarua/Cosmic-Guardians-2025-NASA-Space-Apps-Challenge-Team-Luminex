@@ -21,7 +21,7 @@ Challenge: [Stellar Stories: Space Weather Through the Eyes of Earthlings](https
 Location: Chattogram, Bangladesh
 
 * [Project Presentation](https://youtu.be/FEjPrRmvWz8)
-* [Project Wireframes](https://www.figma.com/design/vXe3xsi1o2AGTISsvGeKsv/NASA-HACKATHON?node-id=0-1&t=8Qqzf832YbK5EAaL-1](https://www.figma.com/design/wYGGDgDaMd8o4hLxLTIGdR/Untitled?node-id=0-1&t=Y5cbjqtVQzYwcUsw-1))
+* [Project Wireframes](https://www.figma.com/design/wYGGDgDaMd8o4hLxLTIGdR/Untitled?node-id=0-1&t=Y5cbjqtVQzYwcUsw-1)
 ---
 
 ### Home Page
